@@ -24,4 +24,11 @@ yarn install
 yarn serve
 ```
 
+
+## WINDOWS INSTALLATION
+
+![](/image001.jpg?raw=true)
+
+
+
 Now go to [http://localhost:8080](http://localhost:8080)
